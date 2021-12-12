@@ -1,0 +1,11 @@
+E:\CLASSWORKS\C#\hakao\Hotel Management System\obj\Debug\Hotel Management System.csproj.AssemblyReference.cache
+E:\CLASSWORKS\C#\hakao\Hotel Management System\obj\Debug\Hotel Management System.csproj.SuggestedBindingRedirects.cache
+E:\CLASSWORKS\C#\hakao\Hotel Management System\obj\Debug\Hotel_Management_System.Properties.Resources.resources
+E:\CLASSWORKS\C#\hakao\Hotel Management System\obj\Debug\Hotel Management System.csproj.GenerateResource.cache
+E:\CLASSWORKS\C#\hakao\Hotel Management System\obj\Debug\Hotel Management System.csproj.CoreCompileInputs.cache
+E:\CLASSWORKS\C#\hakao\Hotel Management System\bin\Debug\Hotel Management System.exe.config
+E:\CLASSWORKS\C#\hakao\Hotel Management System\bin\Debug\Hotel Management System.exe
+E:\CLASSWORKS\C#\hakao\Hotel Management System\bin\Debug\Hotel Management System.pdb
+E:\CLASSWORKS\C#\hakao\Hotel Management System\obj\Debug\Hotel Management System.exe
+E:\CLASSWORKS\C#\hakao\Hotel Management System\obj\Debug\Hotel Management System.pdb
+E:\CLASSWORKS\C#\hakao\Hotel Management System\obj\Debug\Hotel_Management_System.Hotel_Management_System.resources
