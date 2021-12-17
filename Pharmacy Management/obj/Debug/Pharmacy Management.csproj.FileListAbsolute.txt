@@ -1,0 +1,11 @@
+E:\CLASSWORKS\Pharmacy Management\bin\Debug\Pharmacy Management.exe.config
+E:\CLASSWORKS\Pharmacy Management\bin\Debug\Pharmacy Management.exe
+E:\CLASSWORKS\Pharmacy Management\bin\Debug\Pharmacy Management.pdb
+E:\CLASSWORKS\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.AssemblyReference.cache
+E:\CLASSWORKS\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.SuggestedBindingRedirects.cache
+E:\CLASSWORKS\Pharmacy Management\obj\Debug\Pharmacy_Management.Form1.resources
+E:\CLASSWORKS\Pharmacy Management\obj\Debug\Pharmacy_Management.Properties.Resources.resources
+E:\CLASSWORKS\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.GenerateResource.cache
+E:\CLASSWORKS\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.CoreCompileInputs.cache
+E:\CLASSWORKS\Pharmacy Management\obj\Debug\Pharmacy Management.exe
+E:\CLASSWORKS\Pharmacy Management\obj\Debug\Pharmacy Management.pdb
