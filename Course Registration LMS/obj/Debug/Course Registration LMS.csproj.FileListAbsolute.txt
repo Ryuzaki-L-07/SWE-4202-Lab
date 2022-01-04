@@ -1,0 +1,11 @@
+E:\CLASSWORKS\SWE OOP LAB\Course Registration LMS\bin\Debug\Course Registration LMS.exe.config
+E:\CLASSWORKS\SWE OOP LAB\Course Registration LMS\bin\Debug\Course Registration LMS.exe
+E:\CLASSWORKS\SWE OOP LAB\Course Registration LMS\bin\Debug\Course Registration LMS.pdb
+E:\CLASSWORKS\SWE OOP LAB\Course Registration LMS\obj\Debug\Course Registration LMS.csproj.AssemblyReference.cache
+E:\CLASSWORKS\SWE OOP LAB\Course Registration LMS\obj\Debug\Course Registration LMS.csproj.SuggestedBindingRedirects.cache
+E:\CLASSWORKS\SWE OOP LAB\Course Registration LMS\obj\Debug\Course_Registration_LMS.Form1.resources
+E:\CLASSWORKS\SWE OOP LAB\Course Registration LMS\obj\Debug\Course_Registration_LMS.Properties.Resources.resources
+E:\CLASSWORKS\SWE OOP LAB\Course Registration LMS\obj\Debug\Course Registration LMS.csproj.GenerateResource.cache
+E:\CLASSWORKS\SWE OOP LAB\Course Registration LMS\obj\Debug\Course Registration LMS.csproj.CoreCompileInputs.cache
+E:\CLASSWORKS\SWE OOP LAB\Course Registration LMS\obj\Debug\Course Registration LMS.exe
+E:\CLASSWORKS\SWE OOP LAB\Course Registration LMS\obj\Debug\Course Registration LMS.pdb
