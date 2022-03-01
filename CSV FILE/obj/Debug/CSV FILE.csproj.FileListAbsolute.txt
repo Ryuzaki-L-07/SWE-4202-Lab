@@ -1,0 +1,11 @@
+E:\CLASSWORKS\SWE OOP LAB\CSV FILE\bin\Debug\CSV FILE.exe.config
+E:\CLASSWORKS\SWE OOP LAB\CSV FILE\bin\Debug\CSV FILE.exe
+E:\CLASSWORKS\SWE OOP LAB\CSV FILE\bin\Debug\CSV FILE.pdb
+E:\CLASSWORKS\SWE OOP LAB\CSV FILE\obj\Debug\CSV FILE.csproj.AssemblyReference.cache
+E:\CLASSWORKS\SWE OOP LAB\CSV FILE\obj\Debug\CSV FILE.csproj.SuggestedBindingRedirects.cache
+E:\CLASSWORKS\SWE OOP LAB\CSV FILE\obj\Debug\CSV_FILE.Form1.resources
+E:\CLASSWORKS\SWE OOP LAB\CSV FILE\obj\Debug\CSV_FILE.Properties.Resources.resources
+E:\CLASSWORKS\SWE OOP LAB\CSV FILE\obj\Debug\CSV FILE.csproj.GenerateResource.cache
+E:\CLASSWORKS\SWE OOP LAB\CSV FILE\obj\Debug\CSV FILE.csproj.CoreCompileInputs.cache
+E:\CLASSWORKS\SWE OOP LAB\CSV FILE\obj\Debug\CSV FILE.exe
+E:\CLASSWORKS\SWE OOP LAB\CSV FILE\obj\Debug\CSV FILE.pdb
