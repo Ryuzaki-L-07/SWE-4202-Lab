@@ -1,0 +1,8 @@
+E:\CLASSWORKS\SWE OOP LAB\Education Institution Database\bin\Debug\Education Institution Database.exe.config
+E:\CLASSWORKS\SWE OOP LAB\Education Institution Database\bin\Debug\Education Institution Database.exe
+E:\CLASSWORKS\SWE OOP LAB\Education Institution Database\bin\Debug\Education Institution Database.pdb
+E:\CLASSWORKS\SWE OOP LAB\Education Institution Database\obj\Debug\Education Institution Database.csproj.AssemblyReference.cache
+E:\CLASSWORKS\SWE OOP LAB\Education Institution Database\obj\Debug\Education Institution Database.csproj.SuggestedBindingRedirects.cache
+E:\CLASSWORKS\SWE OOP LAB\Education Institution Database\obj\Debug\Education Institution Database.csproj.CoreCompileInputs.cache
+E:\CLASSWORKS\SWE OOP LAB\Education Institution Database\obj\Debug\Education Institution Database.exe
+E:\CLASSWORKS\SWE OOP LAB\Education Institution Database\obj\Debug\Education Institution Database.pdb
