@@ -1,0 +1,8 @@
+E:\CLASSWORKS\SWE OOP LAB\Car Specs\bin\Debug\Car Specs.exe.config
+E:\CLASSWORKS\SWE OOP LAB\Car Specs\bin\Debug\Car Specs.exe
+E:\CLASSWORKS\SWE OOP LAB\Car Specs\bin\Debug\Car Specs.pdb
+E:\CLASSWORKS\SWE OOP LAB\Car Specs\obj\Debug\Car Specs.csproj.AssemblyReference.cache
+E:\CLASSWORKS\SWE OOP LAB\Car Specs\obj\Debug\Car Specs.csproj.SuggestedBindingRedirects.cache
+E:\CLASSWORKS\SWE OOP LAB\Car Specs\obj\Debug\Car Specs.csproj.CoreCompileInputs.cache
+E:\CLASSWORKS\SWE OOP LAB\Car Specs\obj\Debug\Car Specs.exe
+E:\CLASSWORKS\SWE OOP LAB\Car Specs\obj\Debug\Car Specs.pdb
