@@ -1,0 +1,3 @@
+E:\CLASSWORKS\SWE OOP LAB\Building _ UML\obj\Debug\Building _ UML.csproj.AssemblyReference.cache
+E:\CLASSWORKS\SWE OOP LAB\Building _ UML\obj\Debug\Building _ UML.csproj.SuggestedBindingRedirects.cache
+E:\CLASSWORKS\SWE OOP LAB\Building _ UML\obj\Debug\Building _ UML.csproj.CoreCompileInputs.cache
